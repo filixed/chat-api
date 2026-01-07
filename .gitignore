@@ -211,6 +211,9 @@ PublishScripts/
 *.nuget.props
 *.nuget.targets
 
+# EF Core temporary build host (always safe to ignore)
+**/obj/buildhost-*/
+
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
