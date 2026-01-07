@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <!-- Target the same framework everywhere -->
+    <TargetFramework>net10.0</TargetFramework>
+    <!-- Enable nullable reference types -->
+    <Nullable>enable</Nullable>
+
+    <!-- Enable implicit usings (global using directives) -->
+    <ImplicitUsings>enable</ImplicitUsings>
+
+  </PropertyGroup>
+</Project>

@@ -12,6 +12,8 @@
   <Folder Name="/Solution Files/">
     <File Path="../.gitignore" />
     <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
   </Folder>
   <Project Path="Host/Host.csproj" />
   <Project Path="Infrastructure/Infrastructure.csproj" />
